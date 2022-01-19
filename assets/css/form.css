@@ -1,0 +1,6 @@
+.form-btn-inside button {
+    position: absolute;
+    right: 1.1rem;
+    top: 50%;
+    transform: translateY(-50%);
+}

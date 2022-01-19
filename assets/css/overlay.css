@@ -1,0 +1,8 @@
+.overlay-little-pill {
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}

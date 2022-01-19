@@ -1,0 +1,52 @@
+.bg-gray-500 {
+    background-color: #F5F5F5;
+}
+.bg-blue-sea {
+    background-color: #0FA8D7;
+}
+.bg-blue-midnight {
+    background-color: #292B36;
+}
+
+.text-white-70 {
+    color: #d5d5d5;
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.rounded-right-0 {
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.rounded-left-0 {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+
+.right-20px {
+    right: 20px !important;
+}
+.top-90px {
+    top: 90px !important;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: inherit;
+} 
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+html, body {
+    overflow-x: hidden;
+}
