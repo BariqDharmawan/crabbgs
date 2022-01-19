@@ -24,3 +24,18 @@
 .card-body--100px {
     height: 100px;
 }
+
+.card-number-left-bottom {
+    position: absolute;
+    left: 10px;
+    bottom: 0;
+    transform: translateY(50%);
+    background-color: #0FA8D7;
+    color: white;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

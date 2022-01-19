@@ -4,8 +4,15 @@
 .bg-blue-sea {
     background-color: #0FA8D7;
 }
+.bg-dark-midnight {
+    background-color: #2B2C31;
+}
 .bg-blue-midnight {
     background-color: #292B36;
+}
+
+.border-transparent {
+    border-color: transparent;
 }
 
 .text-white-70 {

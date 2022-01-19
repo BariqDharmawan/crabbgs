@@ -1,8 +1,10 @@
 @import './helper.css';
+@import './nav.css';
 @import './form.css';
 @import './card.css';
 @import './slider.css';
 @import './overlay.css';
+@import './pagination.css';
 
 .subscribe-section {
     height: 400px;
