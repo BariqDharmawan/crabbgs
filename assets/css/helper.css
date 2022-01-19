@@ -1,6 +1,9 @@
 .bg-gray-500 {
     background-color: #F5F5F5;
 }
+.bg-blue-light {
+    background-color: #17A7D3;
+}
 .bg-blue-sea {
     background-color: #0FA8D7;
 }
@@ -13,6 +16,10 @@
 
 .border-transparent {
     border-color: transparent;
+}
+
+.rounded-15px {
+    border-radius: 15px;
 }
 
 .text-white-70 {
@@ -56,4 +63,20 @@ ul {
 
 html, body {
     overflow-x: hidden;
+}
+
+.img-lg-400px {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 1400px) {
+    .img-lg-400px {
+        height: 400px !important;
+    }
+    .container {
+        max-width: 1140px !important;
+    }
+    
 }
