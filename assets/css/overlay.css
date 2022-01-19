@@ -2,7 +2,8 @@
     position: absolute;
     z-index: -1;
     height: 100%;
-    width: 100%;
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
+    width: 150%;
+    left: -25%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
 }
