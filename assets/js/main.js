@@ -46,10 +46,16 @@ const sliderThreeSlideOnDesktopWithNav = new Swiper(".slider-1-on-mobile-3-on-de
 });
 
 const sliderFourSlideWithNav = new Swiper(".slider-4", {
-  slidesPerView: 4,
-  spaceBetween: 30,
+  slidesPerView: 2,
+  spaceBetween: 15,
   navigation: {
       nextEl: ".slider-4 .swiper-button-next",
       prevEl: ".slider-4 .swiper-button-prev",
   },
+  breakpoints: {
+    993: {
+      slidesPerView: 4,
+      spaceBetween: 30
+    }
+  }
 });
