@@ -10,3 +10,19 @@
     font-size: 16px !important;
     font-weight: bold;
 }
+
+.slider-nav-bottom .swiper-button-next, .slider-nav-bottom .swiper-button-prev {
+    bottom: 0 !important;
+    top: auto !important;
+    z-index: 11;
+}
+
+.slider-nav-bottom .swiper-button-next {
+    right: 45%;
+    transform: translateX(100%);
+}
+
+.slider-nav-bottom .swiper-button-prev {
+    left: 45%;
+    transform: translateX(-100%);
+}
