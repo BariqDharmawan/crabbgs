@@ -1,6 +1,15 @@
 .bg-gray-500 {
     background-color: #F5F5F5;
 }
+.bg-green-light {
+    background-color: #3DCCBA !important;
+}
+.text-green-light {
+    color: #3DCCBA !important;
+}
+.bg-choco {
+    background-color: #C45B22 !important;
+}
 .bg-blue-light {
     background-color: #17A7D3;
 }

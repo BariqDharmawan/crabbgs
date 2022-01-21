@@ -1,6 +1,6 @@
 .swiper-button-next, .swiper-button-prev {
     color: #fff !important;
-    background-color: #0FA8D7;
+    background-color: #3DCCBA;
     border-radius: 50%;
     width: 40px;
     height: 40px;
@@ -44,6 +44,9 @@
 .slider-pagination-white .swiper-pagination .swiper-pagination-bullet {
     width: 15px;
     height: 15px;
+}
+.swiper-pagination-bullet-active {
+    background-color: #3DCCBA;
 }
 .slider-pagination-white .swiper-pagination .swiper-pagination-bullet-active {
     background-color: white;
